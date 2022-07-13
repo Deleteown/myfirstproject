@@ -1,0 +1,11 @@
+me = 'new person'
+
+def main():
+  if me == 'new person'
+    print('welcom to the Github!')
+    
+  else:
+    print('That not your first time,but also welcom to you!')
+    
+if__name__=="__main__"
+  main()
